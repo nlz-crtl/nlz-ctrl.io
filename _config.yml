@@ -1,13 +1,13 @@
 title: Nils Linhoff # your name (or website title) here
 logo: "images/Ich (2).jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Text
+  TEST
   <br><br>
   
  
 
-  <br><br>
-  [My LinkedIn](https://www.linkedin.com/in/nils-linhoff-2353b995/?originalSubdomain=de)
+ <br><br>
+ <a href="https://www.linkedin.com/in/nils-linhoff-2353b995/?originalSubdomain=de">My LinkedIn</a>
  <br><br>
  
  
