@@ -3,9 +3,9 @@
 ---
 
 PG Induction Assignment
-PG Dip Cyber Security
-Studying cyber security as a postgraduate certification course at the University of Essex Online. The purpose of this assignment is to demonstrate the student’s ability to utilize the online resources of the University Essex and to show academic skills such as concise language and correct referencing methods. The course covers the aspects of securing software, networks, databases or systems against cyber-attacks. It also covers Software Development Life Cycle models as well as psychological factors which can contribute to cyber security challenges. Craigen, et al. (2014) defines Cyber Security as following:
-“Cybersecurity is the organization and collection of resources, processes, and structures used to protect cyberspace and cyberspace-enabled systems from occurrences that misalign de jure from de facto property rights."
+ <br>PG Dip Cyber Security <br>
+The purpose of this assignment is to demonstrate the student’s ability to utilize the online resources of the University Essex and to show academic skills such as concise language and correct referencing methods. The course covers the aspects of securing software, networks, databases or systems against cyber-attacks. It also covers Software Development Life Cycle models as well as psychological factors which can contribute to cyber security challenges. Craigen, et al. (2014) defines Cyber Security as following: <br> <br>
+“Cybersecurity is the organization and collection of resources, processes, and structures used to protect cyberspace and cyberspace-enabled systems from occurrences that misalign de jure from de facto property rights." <br> <br>
 The scope of this course is a postgraduate certification which consists of 60 credits. In contrast to the postgraduate diploma which consist of 120 credits or the full Master of Science which covers the same course as the diploma with an addition of the creation of a master thesis for a total of 180 credits.
 In our increasingly digital world, the importance of cyber security cannot be understated. The very real threat of cyber attacks and the associated costs and risks makes it clear that there is a demand for deeper knowledge of cybersecurity. Cashwell et al. (2014) states that security companies estimate the related costs of cyber-attacks in 2003 range from 13USD billion to 226USD billion. In addition, the same report states that the stock price impact of cyber-attacks that identified target firms suffer losses of 1%-5% in the stock market evaluation days after an attack. This showcases the economic impact of cyber-attacks.
 Another aspect is data breaches of sensitive data such as user information. From 2005 to 2010 there were over 2280 data breaches and over 512 million related compromised records as tracked by the Privacy Rights Clearinghouse (Holtfreter & Harrington, 2015) This shows am alerting increase of data breaches over the five-year period.
@@ -24,13 +24,6 @@ Yağdereli E, Gemci C, Aktaş AZ (2015), A study on cyber-security of autonomous
 
 Vogel, R. (2016) Closing the cybersecurity skills gap. Salus Journal. Charles Sturt University. Available from: https://search.informit.org/doi/10.3316/informit.093144667545339.
 [Accessed 25 April 2021].
-
-
-
- 
-. Studying for this certification made me
-realize my deep interest for cyber security.
-Literaturverzeichnis
 Anon., . Future cyber attacks could prove catastrophic, say online security experts. [Online] 
 Available at: https://www.theguardian.com/technology/2013/jan/21/future-cyber-threats-catastrophic-dld-2013
 [Accessed 26 4 2021].
