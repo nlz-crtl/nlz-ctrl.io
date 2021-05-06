@@ -2,7 +2,7 @@
 
 ---
 ### Induction 
-[Induction](/sInduction)
+[Induction](/Induction.md)
 
 ### Launching into Cyber Security 
 
