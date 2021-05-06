@@ -3,7 +3,11 @@ logo: "images/Ich (2).jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Text
   <br><br>
-  Second description 
+  ## My CV  
+
+- [German](/pdf/CV_Linhoff.pdf)
+- [English](http://example.com/)
+
   <br><br>
   <a href="https://www.linkedin.com/in/nils-linhoff-2353b995/?originalSubdomain=de">My LinkedIn</a>
  <br><br>
