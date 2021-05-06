@@ -1,6 +1,8 @@
 ## Academic UoE Portfolio
 
 ---
+### Induction 
+[Induction](/sInduction)
 
 ### Launching into Cyber Security 
 
