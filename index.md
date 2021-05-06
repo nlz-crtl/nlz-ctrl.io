@@ -17,13 +17,10 @@
 
 ---
 
-### My CV (/CV_Linhoff.pdf) 
+### My CV  
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [German](/pdf/CV_Linhoff.pdf)
+- [English](http://example.com/)
 
 ---
 
