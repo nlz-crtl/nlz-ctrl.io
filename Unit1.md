@@ -1,5 +1,5 @@
 
-Summary Post         
+##Summary Post##         
 
 In the initial discussion post the topic was the popular messaging service WhatsApp which is a subsidiary of Facebook. With currently over 400 million users, which Mathew van Beek confirmed with more recent Data, WhatsApp is a widespread text and voice messaging service which uses networks such cellular networks or Wi-Fi (Brain, 202021). With so much data exchange daily, the confidentiality of the data-in-transit is it is crucial to the customer. That is the reason why the aim of the initial post was to highlight how WhatsApp integrated end-to-end encryption (EE2) or as Dwoskin, 2014 stated ““brought encryption to the masses”.
 
@@ -21,4 +21,5 @@ Dwoskin, D. Y. and E. (2014) ‘WhatsApp Brings Encryption to Masses’, Wall St
 
 LINE (2015) New generation of safe messaging: “Letter Sealing” « LINE Engineers’ Blog, LINE Engineers’ Blog. Available at: https://web.archive.org/web/20160708212507/http://developers.linecorp.com/blog/?p=3679 (Accessed: 14 May 2021).
 
-Press Trust of India (2021) WhatsApp reply sought on plea for non-sharing of UPI data with 3rd parties | Business Standard News, Business Standard. Available at: https://www.business-standard.com/article/current-affairs/whatsapp-reply-sought-on-plea-for-non-sharing-of-upi-data-with-3rd-parties-121020100912_1.html (Accessed: 18 May 2021)
+Press Trust of India (2021) WhatsApp reply sought on plea for non-sharing of UPI data with 3rd parties | Business Standard News, Business Standard. Available at: https://www.business-standard.com/article/current-affairs/whatsapp-reply-sought-on-plea-for-non-sharing-of-upi-data-with-3rd-parties-121020100912_1.html
+(Accessed: 18 May 2021)
