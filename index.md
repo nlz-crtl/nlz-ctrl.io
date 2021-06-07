@@ -1,16 +1,21 @@
 ## Academic UoE Portfolio
 
 ---
+
+
+### Launching into Cyber Security 
+
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ### Induction 
 [Induction](/Induction.md)
 
 ### Discussion Summaries
 [WhatsApp - data confidentially for data in transit](/Unit1.md)
 
-### Launching into Cyber Security 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Discussion Summaries
+[UML Threat Modelling](/UML.md)
 
 ---
 ### 2nd Module 
