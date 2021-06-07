@@ -14,7 +14,7 @@
 ### Discussion Summaries
 [WhatsApp - data confidentially for data in transit](/Unit1.md)
 
-### Discussion Summaries
+### Threat Modelling
 [UML Threat Modelling](/UML.md)
 
 ---
