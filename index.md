@@ -4,9 +4,8 @@
 
 
 ### Launching into Cyber Security 
-
-[Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ### Induction 
 [Induction](/Induction.md)
