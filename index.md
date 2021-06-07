@@ -1,9 +1,9 @@
-## Academic UoE Portfolio
+# Academic UoE Portfolio
 
 ---
 
 
-### Launching into Cyber Security 
+## Launching into Cyber Security 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
