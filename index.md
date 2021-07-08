@@ -13,6 +13,8 @@
 ### Discussion Summaries
 [WhatsApp - data confidentially for data in transit](/Unit1.md)
 
+[Network architecture as a defence – DMZ & Gateways](/Unit2.md)
+
 ### Threat Modelling
 [UML Threat Modelling](/UML.md)
 
