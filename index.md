@@ -18,8 +18,13 @@
 ### Threat Modelling
 [UML Threat Modelling](/UML.md)
 
+### Induvidual Essay
+[Essay - ASMIS Security evaluation](/essay.md)
+
+### Codio Project
+
 ---
-### 2nd Module 
+### Network and Information Security Management
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
