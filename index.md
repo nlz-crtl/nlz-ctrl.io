@@ -21,6 +21,8 @@
 ### Induvidual Essay
 [Essay - ASMIS Security evaluation](/essay.md)
 
+### Key learnings
+
 ### Codio Project
 
 ---
