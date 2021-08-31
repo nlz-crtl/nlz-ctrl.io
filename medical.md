@@ -1,27 +1,22 @@
-## Medical IoT Vunerabilities
+### Medical IoT Vunerabilities
 
-The report “Compromising a Medical Mannequin” (Glisson et al., 2015) explores the vulnerabilities of medical equipment. The researcher used a medical training mannequin as a stand in for the increasing number of IoT devices in the medical field. Then the researcher tried to breach the security of this medical device in a live environment using the most common forms of attack:
+My initial post was about firewalls and demilitarized zones (DMZ) as tools to increase network security. I have described how firewalls can limit outbound and inbound data to keep unwanted data such as malware outside the network (Stewart, 2014). A DMZ is a subnet deployed between the internal network and an outside network (Anderson 2008).
+Steven Johnson provided insightful information about potential mitigation about the inherent weakness of a DMZ that is the passthrough of data. His solutions include "data diodes" which is a hardware-based technology only letting data passthrough in one direction (Scott, 2015). Another technology he mentioned was the idea of placing a honeypot in the DMZ to purposefully attract attackers to detect their presence in the network (ISC, 2015).
+One downside of firewalls is, that they can lead to reduced network speed (Saidin & Zolkipli, 2017).
+Shota Kameyama addressed this in his reply and suggests that building a high-performance firewall can decrease latency. For example, a next generation firewall (NGF) can track end user’s identity, provide real-time data protection and identify applications with a better network performance as compared to traditional firewalls (Talim 2019).
+Haroun Fujah suggested to further increase network security with a dual firewall approach. Using two distinct different firewall setups between the DMZ prevents the cyber-criminal to use the same approach on the outer and inner firewall (Noonan and Dubrawsky, 2006). 
+Megan McClintock’s contribution had a different approach which included adding a intrusion detection systems to a firewall systems. This system is a more active approach to network security, since it purpose is to discover how the network was breached (Grace 2000). 
+In conclusion, I can state that a combination of all technologies as described by my and my fellow students would provide a solid network security. Such a network would contain a DMZ with a honeypot, a double firewall and an IDS. However, this means increased configuration and operation. Further if such a layered approach impairs network performance would be subject to further research.
 
-Live CD brute force attack/Virtual machine brute force attack
-Denial of service attack
-Brute force attack
-A live CD was used to gain access to the network via a brute force attack. A change in the wireless network authentication protocol to RADIUS can prevent a breach (Castillo-Velazquez, et al., 2019). RADIUS requires credentials to authenticate the user in the network. These credentials are stored in the RADIUS and ideally only the people who need to use the mannequin should have the appropriate rights.
+References:
 
-DoS
+Stewart, M. J. (2014) Network Security, Firewalls and VPNs. Available from: https://books.google.com/books/about/Network_Security_Firewalls_and_VPNs.html?id=qZgtAAAAQBAJ [Accessed: 10 June 2021].
+Anderson, Ross (2008) Security Engineering : A Guide to Building Dependable Distributed Systems. Indianapolis, IN: Wiley. Available from: http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=343359&site=ehost-live.
+Scott, A, SANS Reading Room (2015) Tactical Data Diodes in Industrial Automation and Control Systems. Available from:  https://www.sans.org/reading-room/whitepapers/firewalls/tactical-data-diodes-industrial-automation-control-systems-36057 [Accessed June 24th, 2021]
+(ISC)2 (2015) Official (ISC)2 Training Guide CISSIP CBK (ISC)2 Press
+Talim, K. (2019) Enhanced Network Security Using Next Generation Firewalls (NGFW). Available from: http://dspace.daffodilvarsity.edu.bd:8080/bitstream/handle/123456789/4908/P15188%20%2826_%29_.pdf?sequence=1&isAllowed=y [Accessed: June 24th, 2021].
 
-The last attack took the form of a denial of service to target the availability. While the previously mentioned change to RADIUS would be a valid mitigation strategy, a firewall can block excessive requests. As Nikolskaya et al. (2017) states, to filter malicious traffic, various software and hardware are used, which are based on quantitative and qualitative analysis of traffic.
-
-Another important and more general mitigation strategy is to implement security policies throughout the organization. This ranges from password policies, regular security audits to staff training. Requiring a multi factor authentication to authorize users increases password security and makes it harder for cybercriminals to impersonate users or brute force passwords (Dasgupta et al., 2017).
-
-To sum up, the paper showed several vulnerabilities with the wireless network of the medical device. However, there are several mitigation strategies to prevent breaching the security.
-
- 
-
-Castillo-Velazquez, J.-I., Garcia, M. A. and Serrano Martinez, D. J. (2019) ‘Hardening as a best practice for WLAN Security Meanwhile WPA3 is released’, in 2019 IEEE 39th Central America and Panama Convention (CONCAPAN XXXIX). 2019 IEEE 39th Central America and Panama Convention (CONCAPAN XXXIX), pp. 1–5. doi: 10.1109/CONCAPANXXXIX47272.2019.8977073.
-
-Nikolskaya, K. Yu. et al. (2017) ‘Review of modern DDoS-attacks, methods and means of counteraction’, in 2017 International Conference ‘Quality Management,Transport and Information Security, Information Technologies’ (IT QM IS). 2017 International Conference ‘Quality Management,Transport and Information Security, Information Technologies’ (IT QM IS), pp. 87–89. doi: 10.1109/ITMQIS.2017.8085769.
-
-Dasgupta, D., Roy, A. and Nag, A. (2017) ‘Multi-Factor Authentication’, in Dasgupta, D., Roy, A., and Nag, A. (eds) Advances in User Authentication. Cham: Springer International Publishing (Infosys Science Foundation Series), pp. 185–233. doi: 10.1007/978-3-319-58808-7_5.
-
-Glisson, W., Andel, T., McDonald, T., Jacobs, M., Campbell, M. & Mayr, J. (2015) Compromising a Medical Mannequin. Healthcare Information Systems and Technology (Sighealth).
+Noonan, W. J., Noonan, W., & Dubrawsky, (2006). Firewall Fundamentals. Cisco. 
+Grace, C., 2000. Understanding Intrusion Detection Systems. [online] Techsupportalert.com.
+Available from: [Accessed24th June 2021].
 
