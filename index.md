@@ -21,9 +21,10 @@
 ### Induvidual Essay
 [Essay - ASMIS Security evaluation](/essay.md)
 
-### Key learnings of Module 1 Launching into Cyber Security 
-
 ### Codio Project
+[En- and decryption of sensitve patient data](/codio.md)
+
+### Key learnings of Module 1 Launching into Cyber Security 
 
 ---
 ## Network and Information Security Management
