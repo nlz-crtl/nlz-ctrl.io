@@ -21,15 +21,15 @@
 ### Induvidual Essay
 [Essay - ASMIS Security evaluation](/essay.md)
 
-### Key learnings
+###Key learnings of Module 1 Launching into Cyber Security 
 
 ### Codio Project
 
 ---
 ## Network and Information Security Management
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Discussion Summaries
+[Medical IoT vunerabilities](/medical.md)
 
 ---
 ### 3rd Module 
