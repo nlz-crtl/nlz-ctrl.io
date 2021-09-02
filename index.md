@@ -28,6 +28,7 @@
 
 ---
 ## Network and Information Security Management
+<img src="images/digital.jpg?raw=true"/>
 
 ### Discussion Summaries
 [Medical IoT vunerabilities](/medical.md)
