@@ -33,6 +33,10 @@
 ### Discussion Summaries
 [Medical IoT vunerabilities](/medical.md)
 
+### Vulnerability Scanning
+[Basic scanning of Group 1](/scangroup.md)
+
+
 ---
 ### 3rd Module 
 
