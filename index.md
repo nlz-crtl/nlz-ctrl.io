@@ -36,6 +36,7 @@
 ### Vulnerability Scanning
 [Basic scanning of Group 1](/scangroup.md)
 
+[Scanning tools evaluation](/scantool.md)
 
 ---
 ### 3rd Module 
