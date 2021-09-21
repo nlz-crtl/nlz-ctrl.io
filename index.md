@@ -40,6 +40,8 @@
 
 [Scanning tools evaluation](/scantool.md)
 
+[Design Document](/designdoc.md)
+
 ---
 ### 3rd Module 
 
@@ -57,7 +59,7 @@
 ## My CV  
 
 - [German](/pdf/CV_Linhoff.pdf)
-- [English](http://example.com/)
+- [English](/pdf/CV_Linhoff.pdf)
 
 ---
 
@@ -65,5 +67,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
