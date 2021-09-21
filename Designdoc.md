@@ -64,12 +64,12 @@ Tools and scanning approaches.
 ●	DirBuster as part of Kali Linux - to find hidden and public files and subdirectories. We have selected DirBuster for the purpose of brute force website crawling that is able to scan a website against a specific word list directory. 
 Evaluation of Kali Linux against other most common scanning tools:
  
-# Approaches: 
+### Approaches: 
 Have a Linux VM deployed in an ESXi environment with direct access to the internet in order to use all the integrated tools for scanning of the targeted website. 
 Use of Legion tool as part of Kali Linux to perform data gathering of open ports of website as well as data gathering of list of IP addresses corresponding to the DNS entries. 
 DirBuster as part of Kali Linux as well is being used against the targeted website to gather information regarding the list of files and subfolders. This does not scan links or targets to other pages within the website but creates brute force requests of subfolder/files
 
-# Business Impacts 
+### Business Impacts 
 
 As a result of the scanning assessment, it is imperative to outline business effects on the aforementioned tools and methods, this certifies that the testing turnout is advantageous to the E-health business as the essential security and compliance standards are upheld (Allen et al. 2014).
 
@@ -79,7 +79,7 @@ Business impacts on the employed tools and methods are non-existent in terms of 
 
 ### Timeline
 
-
+<img src="images/Timeline.png"/>
 
  
 
