@@ -40,7 +40,7 @@
 
 [Scanning tools evaluation](/scantool.md)
 
-[Design Document](/designdoc.md)
+[Design Document](/Designdoc.md)
 
 ---
 ### 3rd Module 
