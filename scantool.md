@@ -1,7 +1,7 @@
 ## Scanning tools evaluation
 <img src="images/Scanning Tools evaluation.JPG"/>
 
-## Evaluation: Kali Linux vs. Nessus
+### Evaluation: Kali Linux vs. Nessus
 
 Kali Linux is one of the most popular pen-testing tools. It is open-source, flexible and easy to install, 
 Kali Linux is a Linux based distribution pre-packaged with tools that can be used for pen-testing or ethical hacking. It offers a great set of tools for web application scanning, vulnerability scanning and database assessments. However, one downside is that Kali Linux is basically limited to scanning and hacking activities, other everyday computer uses are heavily limited. Furthermore, it is not suited for users with limited Linux experience. 
