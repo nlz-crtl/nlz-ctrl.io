@@ -22,7 +22,7 @@
 [Essay - ASMIS Security evaluation](/essay.md)
 
 ### Codio Project
-[En- and decryption of sensitve patient data](/codio.md)
+[En- and decryption of sensitve patient data](/Codio.md)
 
 ### Key learnings of Module 1 Launching into Cyber Security 
 
