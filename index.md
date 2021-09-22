@@ -18,7 +18,7 @@
 ### Threat Modelling
 [UML Threat Modelling](/UML.md)
 
-### Induvidual Essay
+### Individual  Essay
 [Essay - ASMIS Security evaluation](/essay.md)
 
 ### Codio Project
