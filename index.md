@@ -33,7 +33,7 @@
 ### Discussion Summaries
 [Medical IoT vunerabilities](/medical.md)
 
-[Scanning results summary](/scansum.md)
+[Scanning results summary](/scanningsum.md)
 
 ### Vulnerability Scanning
 [Basic scanning of Group 1](/scangroup.md)
