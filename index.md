@@ -44,7 +44,7 @@
 
 [Executive Summary](/.md)
 
-### Key learnings of Module 1 Launching into Cyber Security 
+### Key learnings of Module 2 Network and Information Security Management
 
 ---
 ### 3rd Module 
