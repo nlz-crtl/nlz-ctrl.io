@@ -48,16 +48,17 @@
 ### Key learnings of Module 2 Network and Information Security Management
 
 [Key learnings and team work](/.md)
-
 [Reflection](/.md)
+
+
 ---
-### 3rd Module 
+## 3rd Module 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### Codio Projects 
+## Codio Projects 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
