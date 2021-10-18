@@ -36,6 +36,8 @@
 
 [Scanning results summary](/scanningsum.md)
 
+[GDPR case summary](/GDPR.md)
+
 ### Vulnerability Scanning
 [Basic scanning of Group 1](/scangroup.md)
 
