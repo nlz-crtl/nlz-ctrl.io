@@ -1,4 +1,4 @@
-﻿
+
 
 
 
@@ -9,11 +9,11 @@ Executive Summary
 
 The Security Squad Group2: Nils Linhoff, Adrian Boscu,Haroun Fujah
 
-![](Aspose.Words.b3b24bd8-2017-4eae-9368-d99d8394584c.006.png)
+
 
 
 # Content
-` `TOC \o "1-3" \h \z \u [Introduction	 PAGEREF _Toc86081582 \h 3](#_Toc86081582)
+[Introduction	 PAGEREF _Toc86081582 \h 3](#_Toc86081582)
 
 [Security issues found	 PAGEREF _Toc86081583 \h 3](#_Toc86081583)
 
