@@ -45,7 +45,7 @@
 
 [Design Document](/Designdoc.md)
 
-[Executive Summary](/exec/Executive Summary.md)
+[Executive Summary]
 
 ### Key learnings of Module 2 Network and Information Security Management
 
