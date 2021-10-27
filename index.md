@@ -38,7 +38,7 @@
 
 [GDPR case summary](/GDPR.md)
 
-[Debate arguments: Future Internet is based on p2p overlay networking:](/debate.md)
+[Debate arguments: Future Internet is based on p2p overlay networking](/debate.md)
 
 ### Vulnerability Scanning
 [Basic scanning of Group 1](/scangroup.md)
