@@ -25,7 +25,7 @@
 [En- and decryption of sensitve patient data](/Codio.md)
 
 ### Key learnings of Module 1 Launching into Cyber Security 
-[Key learnings](/.md)
+[Key learnings](/module1.md)
 
 ---
 ## Network and Information Security Management
