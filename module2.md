@@ -1,6 +1,6 @@
 ## Key learnings: "Network and Information Security Management" ##
 
-•The fundamentals of computer networks and security and principles of information security management.
+• The fundamentals of computer networks and security and principles of information security management.
 
 •	How to use and evaluate security vulnerability and assessment tools.
 
