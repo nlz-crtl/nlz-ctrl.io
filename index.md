@@ -51,9 +51,9 @@
 
 ### Key learnings of Module 2 Network and Information Security Management
 
-[Key learnings and team work](/.md)
+[Key learnings](/module2.md)
 
-[Reflection](/.md)
+
 
 
 ---
