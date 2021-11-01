@@ -1,14 +1,15 @@
 ## Key learnings ##
 
-•	Identify and explain Cyber Security issues
+•	The fundamentals of computer networks and security and principles of information security management.
 
-•	Evaluate critically implications of the key vulnerabilities
+•	How to use and evaluate security vulnerability and assessment tools.
 
-•	Identify and assess threats of software and network security 
+•	An understanding of future network architectures and information security management.
 
-•	Develop mitigation strategies
+•	How to design a security scanning analysis and summarize it for an executive audience
 
-•	Apply the concepts and principles of secure object-oriented programming and design 
+•	How to reflect on and evaluate their personal development.
 
-•	Evaluate critically the solutions developed to solve/mitigate these security issues.
+•	Knowledge of GDPR and other security standards.
+
 
