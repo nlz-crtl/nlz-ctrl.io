@@ -57,10 +57,10 @@
 
 
 ---
-## 3rd Module 
+## Information Risk Management
+<img src="images/security-g0cc89ea1f_1920.jpg"/>
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ## Codio Projects 
