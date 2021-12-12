@@ -60,7 +60,16 @@
 ## Information Risk Management
 <img src="images/security-g0cc89ea1f_1920.jpg"/>
 
-[Project 1 Title](/sample_page)
+
+### Discussion Summaries
+[User Participation in the Risk Management Process](/sample_page)
+
+[The Effect of Risk on the SDLC](/sample_page)
+
+### Risk Report
+[Status Report](/sample_page)
+
+[Risk Assesment Report](/sample_page)
 
 ---
 ## Codio Projects 
