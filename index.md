@@ -75,7 +75,7 @@
 <img src="images/Research.jpg"/>
 
 ### Formative Activities
-[Reflective activity - Ethics in Computing](/sample_page)
+[Reflective activity - Ethics in Computing](/Reflective activity - Ethics in Computing.md)
 
 
 ### Discussion Summaries
