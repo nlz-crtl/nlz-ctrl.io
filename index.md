@@ -71,11 +71,20 @@
 
 [Risk Assesment Report](/sample_page)
 
+## Research Methods and Professional Practice May 2023
+<img src="images/Research.jpg"/>
+
+### Formative Activities
+
+### Discussion Summaries
+       
+
 ---
 ## Codio Projects 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
           
 ---
 
