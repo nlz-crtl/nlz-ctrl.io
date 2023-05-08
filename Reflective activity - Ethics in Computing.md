@@ -1,10 +1,12 @@
-##Reflective activity - Ethics in Computing##
+## Reflective activity - Ethics in Computing ##
 
-##Task:##
+## Task: ##
+
 Consider yourself as a relevant stakeholder, a Computing professional working for a company of your choice. Examine how one or more of the ethical issues mentioned affect your role in the company and what actions you would need to/can take. You should justify your stance by also reviewing any papers included in this study or other relevant literature. Your discussion should also highlight the impact your actions would have on applicable legal, social and professional issues. Please note that there is no right or wrong answer here, this exercise is to help you evaluate the legal, social ethical and professional issues that affect computing professionals in industry.
+
+
+
 As a computing professional, it is critical to understand and address the ethical issues that affect the technology industry. The ethical concerns in computing are complex and multifaceted, and it is important to evaluate how these issues impact the role of computing professionals in a company. In this essay, I will discuss two of the most significant ethical issues that affect computing professionals, namely data privacy and responsible use of AI, and how these issues can be addressed in a manner that ensures compliance with legal, social, and professional standards.
-
-
 
 Data privacy is a critical issue that affects the entire technology industry, and it is of great concern to computing professionals. As technology advances, companies are collecting vast amounts of personal data from users, such as their browsing history, location data, and personal preferences. While this data can be used to improve the user experience and enhance products and services, it also raises ethical concerns about privacy and security.
 
