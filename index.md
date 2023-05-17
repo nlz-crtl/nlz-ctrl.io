@@ -79,6 +79,8 @@
 [Reflective activity - Ethics in Computing](/Reflective activity - Ethics in Computing.md)
 
 
+[Quantitative and Mixed Research Methods](/Quantitative and Mixed Research Methods.md)
+
 ### Discussion Summaries
        
 
