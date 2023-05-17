@@ -1,6 +1,6 @@
-##Implementing Cybersecurity Tools and Techniques in the Reduction of Cyberbullying: A Quantitative and Mixed Research Methods Approach##
+## Implementing Cybersecurity Tools and Techniques in the Reduction of Cyberbullying: A Quantitative and Mixed Research Methods Approach ##
 
-###Introduction:###
+### Introduction: ###
 Cyberbullying is a significant societal concern with adverse effects on individuals, particularly children and adolescents. This research proposal aims to investigate the effectiveness of implementing cybersecurity tools and techniques in reducing cyberbullying incidents. The study will employ quantitative and mixed research methods to obtain a comprehensive understanding of the problem and evaluate the impact of implemented measures.
 
 Research Objectives:
