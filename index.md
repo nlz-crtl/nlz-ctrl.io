@@ -78,8 +78,10 @@
 
 [Reflective activity - Ethics in Computing](/Reflective activity - Ethics in Computing.md)
 
-
 [Research Proposal Review - Mixed Research methods](/Quantitative and Mixed Research Methods.md)
+
+[Reflective activity 2 - Use of surveys for alternative means](/Use of surveys for alternative means.md)
+
 
 ### Discussion Summaries
        
