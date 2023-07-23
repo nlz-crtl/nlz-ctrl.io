@@ -87,7 +87,7 @@
 ### Discussion Summaries
 [Discussion Summary 1](/Discussion Summary 1.md)
 
-       
+[Discussion Summary 2](/Discussion Summary 2.md)
 
 ---
 ## Codio Projects 
