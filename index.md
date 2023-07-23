@@ -84,7 +84,9 @@
 
 [Literature Review Outline](/Lit Review Outline.docx)
 
-[Cyberbullying Research Proposal Outline]/(Cyberbullying Research Proposal Outline.docx)
+[Cyberbullying Research Proposal Outline](/Cyberbullying Research Proposal Outline.docx)
+
+[Statistical Exercises Unit 8 and 9](/Statistical Exercises Unit 8 and 9.md)
 
 ### Discussion Summaries
 [Discussion Summary 1](/Discussion Summary 1.md)
