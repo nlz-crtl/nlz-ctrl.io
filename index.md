@@ -78,10 +78,11 @@
 [Reflective activity - Ethics in Computing](/Reflective activity - Ethics in Computing.md)
 
 ### Unit 2
-[Literature Review guiding questions/](Unit 2 - Literature review guide questions (1).docx)
+[Literature Review guiding questions](/Unit 2 - Literature review guide questions (1).docx)
 
 ### Unit 3
 [Research Proposal Review - Mixed Research methods](/Quantitative and Mixed Research Methods.md)
+
 [Discussion Summary 1](/Discussion Summary 1.md)
 
 ### Unit 4
