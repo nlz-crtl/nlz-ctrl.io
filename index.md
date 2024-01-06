@@ -91,7 +91,7 @@
 [Reflective activity 2 - Use of surveys for alternative means](/Use of surveys for alternative means.md)
 
 ### Unit 6
-Data Collection
+[Data Collection](/Data Collection.md)
 
 ### Unit 7
 [Discussion Summary 2](/Discussion Summary 2.md)
