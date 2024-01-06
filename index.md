@@ -78,7 +78,7 @@
 [Reflective activity - Ethics in Computing](/Reflective activity - Ethics in Computing.md)
 
 ### Unit 2
-[Literature Review guiding questions](/Unit 2 - Literature review guide questions (1).docx)
+[Literature Review guiding questions](/Unit 2 - Literature review guide questions.docx)
 
 ### Unit 3
 [Research Proposal Review - Mixed Research methods](/Quantitative and Mixed Research Methods.md)
@@ -111,7 +111,7 @@ Presentation Video
 Transcript
 
 ### Unit 11
-[Professional Skill Matrix](/Professional Skills Matrix (1).xlsx)
+[Professional Skill Matrix](/Professional Skills Matrix.xlsx)
 
 SWOT
 
