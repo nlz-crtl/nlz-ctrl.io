@@ -74,24 +74,60 @@
 ## Research Methods and Professional Practice May 2023
 <img src="images/Research.jpg"/>
 
-### Formative Activities
-
+### Unit 1
 [Reflective activity - Ethics in Computing](/Reflective activity - Ethics in Computing.md)
 
+### Unit 2
+Literature Review guiding questions
+
+### Unit 3
 [Research Proposal Review - Mixed Research methods](/Quantitative and Mixed Research Methods.md)
-
-[Reflective activity 2 - Use of surveys for alternative means](/Use of surveys for alternative means.md)
-
-[Literature Review Outline](/Lit Review Outline.docx)
-
-[Cyberbullying Research Proposal Outline](/Cyberbullying Research Proposal Outline.docx)
-
-[Statistical Exercises Unit 8 and 9](/Statistical Exercises Unit 8 and 9.md)
-
-### Discussion Summaries
 [Discussion Summary 1](/Discussion Summary 1.md)
 
+### Unit 4
+[Literature Review Outline](/Lit Review Outline.docx)
+
+### Unit 5
+[Reflective activity 2 - Use of surveys for alternative means](/Use of surveys for alternative means.md)
+
+### Unit 6
+Data Collection
+
+### Unit 7
 [Discussion Summary 2](/Discussion Summary 2.md)
+
+### Unit 8 
+[Cyberbullying Research Proposal Outline](/Cyberbullying Research Proposal Outline.docx)
+
+### Unit 9
+[Statistical Exercises Unit 8 and 9](/Statistical Exercises Unit 8 and 9.md)
+
+### Unit 10
+Research Proposal Presentation
+
+### Unit 11
+Professional Matrix
+SWOT
+
+### Unit 12
+Reflective Piece
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 ## Codio Projects 
